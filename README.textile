@@ -1,0 +1,7 @@
+h1. Audioreactive Sphere
+
+A VVVV patch deforming a sphere in relation to sound in realtime.
+
+h2. Project Info
+
+* *Demo*: "http://www.vimeo.com/8406915":http://www.vimeo.com/8406915
